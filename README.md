@@ -1,5 +1,5 @@
 # Overview
-[Clime](https://clime.live/) enables users to search for weather information by entering a city name. Users can access current weather conditions and forecasts for the next 4-5 days, including detailed forecasts for the upcoming hours at 3-hour intervals. Additionally, [Clime](https://clime.live/) allows users to view the weather for their current location.
+[Clime]enables users to search for weather information by entering a city name. Users can access current weather conditions and forecasts for the next 4-5 days, including detailed forecasts for the upcoming hours at 3-hour intervals. Additionally, allows users to view the weather for their current location.
 
 The app is developed using React.js and material-UI.
 
@@ -11,7 +11,7 @@ https://www.clime.live
 
 - Clone the repository:
 ```bash
-git clone https://github.com/nikhilyadvv/clime.git
+git clone https://github.com/himanssu/clime.git
 ```
 - Make sure you already have `Node.js` and `npm` installed in your system.
 - Get your API keys from OpenWeatherMap and GeoDB Cities(Rapid API).

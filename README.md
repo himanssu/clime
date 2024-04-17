@@ -3,10 +3,6 @@
 
 The app is developed using React.js and material-UI.
 
-## 💻 Live Demo:
-
-https://www.clime.live
-
 ## ⚡ Install the Project
 
 - Clone the repository:
